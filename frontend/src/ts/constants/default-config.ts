@@ -1,8 +1,8 @@
 export default {
-  theme: "serika_dark",
-  themeLight: "serika",
-  themeDark: "serika_dark",
-  autoSwitchTheme: false,
+  theme: "rose_pine",
+  themeLight: "rose_pine_dawn",
+  themeDark: "rose_pine",
+  autoSwitchTheme: true,
   customTheme: false,
   customThemeColors: [
     "#323437",

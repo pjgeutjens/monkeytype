@@ -117,7 +117,7 @@ export async function loadStyle(name: string): Promise<void> {
       resolve();
     };
     if (name === "custom") {
-      link.href = `/themes/serika_dark.css`;
+      link.href = `/themes/rose_pine_dawn.css`;
     } else {
       link.href = `/themes/${name}.css`;
     }

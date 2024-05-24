@@ -4,11 +4,10 @@
 // your config should be visible there
 
 export const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  databaseURL: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
+  apiKey: "AIzaSyAPZ8CXBirB5_HoPig7QPGdU0G9fj9H4q8",
+  authDomain: "monkeytype-be849.firebaseapp.com",
+  projectId: "monkeytype-be849",
+  storageBucket: "monkeytype-be849.appspot.com",
+  messagingSenderId: "523469587648",
+  appId: "1:523469587648:web:61a1cace67264613a51925",
 };
